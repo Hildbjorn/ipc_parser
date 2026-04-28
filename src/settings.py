@@ -16,9 +16,10 @@ INPUT_DIR = DATA_DIR / "input"
 OUTPUT_DIR = DATA_DIR / "output"
 JSON_DIR = OUTPUT_DIR / "json"
 XLSX_DIR = OUTPUT_DIR / "xlsx"
+SQLITE_DIR = OUTPUT_DIR / "sqlite"
 CACHE_DIR = DATA_DIR / "cache"
 
-for dir_path in [INPUT_DIR, OUTPUT_DIR, JSON_DIR, XLSX_DIR, CACHE_DIR]:
+for dir_path in [INPUT_DIR, OUTPUT_DIR, JSON_DIR, XLSX_DIR, SQLITE_DIR, CACHE_DIR]:
     dir_path.mkdir(parents=True, exist_ok=True)
 
 # Входной файл

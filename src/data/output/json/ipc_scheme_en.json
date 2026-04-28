@@ -1,0 +1,1003 @@
+[
+  {
+    "Level": 1,
+    "Kind": "s",
+    "Type": "Section",
+    "Symbol": "A",
+    "ParentSymbol": "",
+    "FullTitle": "HUMAN NECESSITIES",
+    "TitleParts": [
+      "HUMAN NECESSITIES"
+    ],
+    "RawTitle": "HUMAN NECESSITIES",
+    "References": [],
+    "DotCount": 0,
+    "Section": "A",
+    "Class": "A",
+    "Subclass": "A",
+    "MainGroup": "A",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 2,
+    "Kind": "t",
+    "Type": "Subsection",
+    "Symbol": "A01",
+    "ParentSymbol": "A",
+    "FullTitle": "AGRICULTURE",
+    "TitleParts": [
+      "AGRICULTURE"
+    ],
+    "RawTitle": "AGRICULTURE",
+    "References": [],
+    "DotCount": 0,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01",
+    "MainGroup": "A01",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 3,
+    "Kind": "c",
+    "Type": "Class",
+    "Symbol": "A01",
+    "ParentSymbol": "A",
+    "FullTitle": "AGRICULTURE; FORESTRY; ANIMAL HUSBANDRY; HUNTING; TRAPPING; FISHING",
+    "TitleParts": [
+      "AGRICULTURE; FORESTRY; ANIMAL HUSBANDRY; HUNTING; TRAPPING; FISHING"
+    ],
+    "RawTitle": "AGRICULTURE; FORESTRY; ANIMAL HUSBANDRY; HUNTING; TRAPPING; FISHING",
+    "References": [],
+    "DotCount": 0,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01",
+    "MainGroup": "A01",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 4,
+    "Kind": "u",
+    "Type": "Subclass",
+    "Symbol": "A01B",
+    "ParentSymbol": "A01",
+    "FullTitle": "SOIL WORKING IN AGRICULTURE OR FORESTRY; PARTS, DETAILS, OR ACCESSORIES OF AGRICULTURAL MACHINES OR IMPLEMENTS, IN GENERAL",
+    "TitleParts": [
+      "SOIL WORKING IN AGRICULTURE OR FORESTRY; PARTS, DETAILS, OR ACCESSORIES OF AGRICULTURAL MACHINES OR IMPLEMENTS, IN GENERAL"
+    ],
+    "RawTitle": "SOIL WORKING IN AGRICULTURE OR FORESTRY; PARTS, DETAILS, OR ACCESSORIES OF AGRICULTURAL MACHINES OR IMPLEMENTS, IN GENERAL",
+    "References": [
+      {
+        "text": "making or covering furrows or holes for sowing, planting or manuring",
+        "symbols": [
+          "A01C 5/00"
+        ]
+      },
+      {
+        "text": "mowers convertible to soil working apparatus or capable of soil working",
+        "symbols": [
+          "A01D 42/04"
+        ]
+      },
+      {
+        "text": "mowers combined with soil working implements",
+        "symbols": [
+          "A01D 43/12"
+        ]
+      },
+      {
+        "text": "soil working for engineering purposes",
+        "symbols": [
+          "E01",
+          "E02",
+          "E21"
+        ]
+      }
+    ],
+    "DotCount": 0,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "m",
+    "Type": "MainGroup",
+    "Symbol": "A01B 1/00",
+    "ParentSymbol": "A01B",
+    "FullTitle": "Hand tools",
+    "TitleParts": [
+      "Hand tools"
+    ],
+    "RawTitle": "Hand tools",
+    "References": [
+      {
+        "text": "edge trimmers for lawns",
+        "symbols": [
+          "A01G 3/06"
+        ]
+      }
+    ],
+    "DotCount": 0,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/02",
+    "ParentSymbol": "A01B 1/00",
+    "FullTitle": "Hand tools → Spades; Shovels",
+    "TitleParts": [
+      "Hand tools",
+      "Spades; Shovels"
+    ],
+    "RawTitle": "Spades; Shovels",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/04",
+    "ParentSymbol": "A01B 1/02",
+    "FullTitle": "Hand tools → Spades; Shovels → with teeth",
+    "TitleParts": [
+      "Hand tools",
+      "Spades; Shovels",
+      "with teeth"
+    ],
+    "RawTitle": "with teeth",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/06",
+    "ParentSymbol": "A01B 1/00",
+    "FullTitle": "Hand tools → Hoes; Hand cultivators",
+    "TitleParts": [
+      "Hand tools",
+      "Hoes; Hand cultivators"
+    ],
+    "RawTitle": "Hoes; Hand cultivators",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/08",
+    "ParentSymbol": "A01B 1/06",
+    "FullTitle": "Hand tools → Hoes; Hand cultivators → with a single blade",
+    "TitleParts": [
+      "Hand tools",
+      "Hoes; Hand cultivators",
+      "with a single blade"
+    ],
+    "RawTitle": "with a single blade",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/10",
+    "ParentSymbol": "A01B 1/06",
+    "FullTitle": "Hand tools → Hoes; Hand cultivators → with two or more blades",
+    "TitleParts": [
+      "Hand tools",
+      "Hoes; Hand cultivators",
+      "with two or more blades"
+    ],
+    "RawTitle": "with two or more blades",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/12",
+    "ParentSymbol": "A01B 1/06",
+    "FullTitle": "Hand tools → Hoes; Hand cultivators → with blades provided with teeth",
+    "TitleParts": [
+      "Hand tools",
+      "Hoes; Hand cultivators",
+      "with blades provided with teeth"
+    ],
+    "RawTitle": "with blades provided with teeth",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/14",
+    "ParentSymbol": "A01B 1/06",
+    "FullTitle": "Hand tools → Hoes; Hand cultivators → with teeth only",
+    "TitleParts": [
+      "Hand tools",
+      "Hoes; Hand cultivators",
+      "with teeth only"
+    ],
+    "RawTitle": "with teeth only",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/16",
+    "ParentSymbol": "A01B 1/00",
+    "FullTitle": "Hand tools → Tools for uprooting weeds",
+    "TitleParts": [
+      "Hand tools",
+      "Tools for uprooting weeds"
+    ],
+    "RawTitle": "Tools for uprooting weeds",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/18",
+    "ParentSymbol": "A01B 1/16",
+    "FullTitle": "Hand tools → Tools for uprooting weeds → Tong-like tools",
+    "TitleParts": [
+      "Hand tools",
+      "Tools for uprooting weeds",
+      "Tong-like tools"
+    ],
+    "RawTitle": "Tong-like tools",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/20",
+    "ParentSymbol": "A01B 1/00",
+    "FullTitle": "Hand tools → Combinations of different kinds of hand tools",
+    "TitleParts": [
+      "Hand tools",
+      "Combinations of different kinds of hand tools"
+    ],
+    "RawTitle": "Combinations of different kinds of hand tools",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/22",
+    "ParentSymbol": "A01B 1/00",
+    "FullTitle": "Hand tools → Attaching the blades or the like to handles; Interchangeable or adjustable blades",
+    "TitleParts": [
+      "Hand tools",
+      "Attaching the blades or the like to handles; Interchangeable or adjustable blades"
+    ],
+    "RawTitle": "Attaching the blades or the like to handles; Interchangeable or adjustable blades",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/24",
+    "ParentSymbol": "A01B 1/00",
+    "FullTitle": "Hand tools → for treating meadows or lawns",
+    "TitleParts": [
+      "Hand tools",
+      "for treating meadows or lawns"
+    ],
+    "RawTitle": "for treating meadows or lawns",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "m",
+    "Type": "MainGroup",
+    "Symbol": "A01B 3/00",
+    "ParentSymbol": "A01B",
+    "FullTitle": "Ploughs with fixed plough-shares",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares"
+    ],
+    "RawTitle": "Ploughs with fixed plough-shares",
+    "References": [],
+    "DotCount": 0,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/02",
+    "ParentSymbol": "A01B 3/00",
+    "FullTitle": "Ploughs with fixed plough-shares → Man-driven ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Man-driven ploughs"
+    ],
+    "RawTitle": "Man-driven ploughs",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/04",
+    "ParentSymbol": "A01B 3/00",
+    "FullTitle": "Ploughs with fixed plough-shares → Animal-drawn ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Animal-drawn ploughs"
+    ],
+    "RawTitle": "Animal-drawn ploughs",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/06",
+    "ParentSymbol": "A01B 3/04",
+    "FullTitle": "Ploughs with fixed plough-shares → Animal-drawn ploughs → without alternating possibility, i.e. incapable of making an adjacent furrow on return journey",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Animal-drawn ploughs",
+      "without alternating possibility, i.e. incapable of making an adjacent furrow on return journey"
+    ],
+    "RawTitle": "without alternating possibility, i.e. incapable of making an adjacent furrow on return journey",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/08",
+    "ParentSymbol": "A01B 3/06",
+    "FullTitle": "Ploughs with fixed plough-shares → Animal-drawn ploughs → without alternating possibility, i.e. incapable of making an adjacent furrow on return journey → Swing ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Animal-drawn ploughs",
+      "without alternating possibility, i.e. incapable of making an adjacent furrow on return journey",
+      "Swing ploughs"
+    ],
+    "RawTitle": "Swing ploughs",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/10",
+    "ParentSymbol": "A01B 3/06",
+    "FullTitle": "Ploughs with fixed plough-shares → Animal-drawn ploughs → without alternating possibility, i.e. incapable of making an adjacent furrow on return journey → Trussed-beam ploughs; Single-wheel ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Animal-drawn ploughs",
+      "without alternating possibility, i.e. incapable of making an adjacent furrow on return journey",
+      "Trussed-beam ploughs; Single-wheel ploughs"
+    ],
+    "RawTitle": "Trussed-beam ploughs; Single-wheel ploughs",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/12",
+    "ParentSymbol": "A01B 3/06",
+    "FullTitle": "Ploughs with fixed plough-shares → Animal-drawn ploughs → without alternating possibility, i.e. incapable of making an adjacent furrow on return journey → Two-wheel beam ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Animal-drawn ploughs",
+      "without alternating possibility, i.e. incapable of making an adjacent furrow on return journey",
+      "Two-wheel beam ploughs"
+    ],
+    "RawTitle": "Two-wheel beam ploughs",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/14",
+    "ParentSymbol": "A01B 3/06",
+    "FullTitle": "Ploughs with fixed plough-shares → Animal-drawn ploughs → without alternating possibility, i.e. incapable of making an adjacent furrow on return journey → Frame ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Animal-drawn ploughs",
+      "without alternating possibility, i.e. incapable of making an adjacent furrow on return journey",
+      "Frame ploughs"
+    ],
+    "RawTitle": "Frame ploughs",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/16",
+    "ParentSymbol": "A01B 3/04",
+    "FullTitle": "Ploughs with fixed plough-shares → Animal-drawn ploughs → Alternating ploughs, i.e. capable of making an adjacent furrow on return journey",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Animal-drawn ploughs",
+      "Alternating ploughs, i.e. capable of making an adjacent furrow on return journey"
+    ],
+    "RawTitle": "Alternating ploughs, i.e. capable of making an adjacent furrow on return journey",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/18",
+    "ParentSymbol": "A01B 3/16",
+    "FullTitle": "Ploughs with fixed plough-shares → Animal-drawn ploughs → Alternating ploughs, i.e. capable of making an adjacent furrow on return journey → Turn-wrest ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Animal-drawn ploughs",
+      "Alternating ploughs, i.e. capable of making an adjacent furrow on return journey",
+      "Turn-wrest ploughs"
+    ],
+    "RawTitle": "Turn-wrest ploughs",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/20",
+    "ParentSymbol": "A01B 3/16",
+    "FullTitle": "Ploughs with fixed plough-shares → Animal-drawn ploughs → Alternating ploughs, i.e. capable of making an adjacent furrow on return journey → Balance ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Animal-drawn ploughs",
+      "Alternating ploughs, i.e. capable of making an adjacent furrow on return journey",
+      "Balance ploughs"
+    ],
+    "RawTitle": "Balance ploughs",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/22",
+    "ParentSymbol": "A01B 3/16",
+    "FullTitle": "Ploughs with fixed plough-shares → Animal-drawn ploughs → Alternating ploughs, i.e. capable of making an adjacent furrow on return journey → with parallel plough units used alternately",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Animal-drawn ploughs",
+      "Alternating ploughs, i.e. capable of making an adjacent furrow on return journey",
+      "with parallel plough units used alternately"
+    ],
+    "RawTitle": "with parallel plough units used alternately",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/24",
+    "ParentSymbol": "A01B 3/00",
+    "FullTitle": "Ploughs with fixed plough-shares → Tractor-drawn ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Tractor-drawn ploughs"
+    ],
+    "RawTitle": "Tractor-drawn ploughs",
+    "References": [
+      {
+        "text": "takes precedence",
+        "symbols": [
+          "A01B 3/04"
+        ]
+      }
+    ],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/26",
+    "ParentSymbol": "A01B 3/24",
+    "FullTitle": "Ploughs with fixed plough-shares → Tractor-drawn ploughs → without alternating possibility",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Tractor-drawn ploughs",
+      "without alternating possibility"
+    ],
+    "RawTitle": "without alternating possibility",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/28",
+    "ParentSymbol": "A01B 3/24",
+    "FullTitle": "Ploughs with fixed plough-shares → Tractor-drawn ploughs → Alternating ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Tractor-drawn ploughs",
+      "Alternating ploughs"
+    ],
+    "RawTitle": "Alternating ploughs",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/30",
+    "ParentSymbol": "A01B 3/28",
+    "FullTitle": "Ploughs with fixed plough-shares → Tractor-drawn ploughs → Alternating ploughs → Turn-wrest ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Tractor-drawn ploughs",
+      "Alternating ploughs",
+      "Turn-wrest ploughs"
+    ],
+    "RawTitle": "Turn-wrest ploughs",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/32",
+    "ParentSymbol": "A01B 3/28",
+    "FullTitle": "Ploughs with fixed plough-shares → Tractor-drawn ploughs → Alternating ploughs → Balance ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Tractor-drawn ploughs",
+      "Alternating ploughs",
+      "Balance ploughs"
+    ],
+    "RawTitle": "Balance ploughs",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/34",
+    "ParentSymbol": "A01B 3/28",
+    "FullTitle": "Ploughs with fixed plough-shares → Tractor-drawn ploughs → Alternating ploughs → with parallel plough units used alternately",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Tractor-drawn ploughs",
+      "Alternating ploughs",
+      "with parallel plough units used alternately"
+    ],
+    "RawTitle": "with parallel plough units used alternately",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/36",
+    "ParentSymbol": "A01B 3/00",
+    "FullTitle": "Ploughs with fixed plough-shares → Ploughs mounted on tractors",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Ploughs mounted on tractors"
+    ],
+    "RawTitle": "Ploughs mounted on tractors",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/38",
+    "ParentSymbol": "A01B 3/36",
+    "FullTitle": "Ploughs with fixed plough-shares → Ploughs mounted on tractors → without alternating possibility",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Ploughs mounted on tractors",
+      "without alternating possibility"
+    ],
+    "RawTitle": "without alternating possibility",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/40",
+    "ParentSymbol": "A01B 3/36",
+    "FullTitle": "Ploughs with fixed plough-shares → Ploughs mounted on tractors → Alternating ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Ploughs mounted on tractors",
+      "Alternating ploughs"
+    ],
+    "RawTitle": "Alternating ploughs",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/42",
+    "ParentSymbol": "A01B 3/40",
+    "FullTitle": "Ploughs with fixed plough-shares → Ploughs mounted on tractors → Alternating ploughs → Turn-wrest ploughs",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Ploughs mounted on tractors",
+      "Alternating ploughs",
+      "Turn-wrest ploughs"
+    ],
+    "RawTitle": "Turn-wrest ploughs",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "4",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/4210",
+    "ParentSymbol": "A01B 3/42",
+    "FullTitle": "Ploughs with fixed plough-shares → Ploughs mounted on tractors → Alternating ploughs → Turn-wrest ploughs → with a headstock frame made in one piece",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Ploughs mounted on tractors",
+      "Alternating ploughs",
+      "Turn-wrest ploughs",
+      "with a headstock frame made in one piece"
+    ],
+    "RawTitle": "with a headstock frame made in one piece",
+    "References": [],
+    "DotCount": 4,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "4",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/4260",
+    "ParentSymbol": "A01B 3/42",
+    "FullTitle": "Ploughs with fixed plough-shares → Ploughs mounted on tractors → Alternating ploughs → Turn-wrest ploughs → with a headstock frame made of two or more parts",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Ploughs mounted on tractors",
+      "Alternating ploughs",
+      "Turn-wrest ploughs",
+      "with a headstock frame made of two or more parts"
+    ],
+    "RawTitle": "with a headstock frame made of two or more parts",
+    "References": [],
+    "DotCount": 4,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/44",
+    "ParentSymbol": "A01B 3/40",
+    "FullTitle": "Ploughs with fixed plough-shares → Ploughs mounted on tractors → Alternating ploughs → with parallel plough units used alternately",
+    "TitleParts": [
+      "Ploughs with fixed plough-shares",
+      "Ploughs mounted on tractors",
+      "Alternating ploughs",
+      "with parallel plough units used alternately"
+    ],
+    "RawTitle": "with parallel plough units used alternately",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  }
+]

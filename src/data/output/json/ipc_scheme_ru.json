@@ -1,0 +1,1003 @@
+[
+  {
+    "Level": 1,
+    "Kind": "s",
+    "Type": "Section",
+    "Symbol": "A",
+    "ParentSymbol": "",
+    "FullTitle": "УДОВЛЕТВОРЕНИЕ ЖИЗНЕННЫХ ПОТРЕБНОСТЕЙ ЧЕЛОВЕКА",
+    "TitleParts": [
+      "УДОВЛЕТВОРЕНИЕ ЖИЗНЕННЫХ ПОТРЕБНОСТЕЙ ЧЕЛОВЕКА"
+    ],
+    "RawTitle": "УДОВЛЕТВОРЕНИЕ ЖИЗНЕННЫХ ПОТРЕБНОСТЕЙ ЧЕЛОВЕКА",
+    "References": [],
+    "DotCount": 0,
+    "Section": "A",
+    "Class": "A",
+    "Subclass": "A",
+    "MainGroup": "A",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 2,
+    "Kind": "t",
+    "Type": "Subsection",
+    "Symbol": "A01",
+    "ParentSymbol": "A",
+    "FullTitle": "СЕЛЬСКОЕ ХОЗЯЙСТВО",
+    "TitleParts": [
+      "СЕЛЬСКОЕ ХОЗЯЙСТВО"
+    ],
+    "RawTitle": "СЕЛЬСКОЕ ХОЗЯЙСТВО",
+    "References": [],
+    "DotCount": 0,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01",
+    "MainGroup": "A01",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 3,
+    "Kind": "c",
+    "Type": "Class",
+    "Symbol": "A01",
+    "ParentSymbol": "A",
+    "FullTitle": "СЕЛЬСКОЕ ХОЗЯЙСТВО; ЛЕСНОЕ ХОЗЯЙСТВО; ЖИВОТНОВОДСТВО; ОХОТА; ОТЛОВ ЖИВОТНЫХ; РЫБОЛОВСТВО",
+    "TitleParts": [
+      "СЕЛЬСКОЕ ХОЗЯЙСТВО; ЛЕСНОЕ ХОЗЯЙСТВО; ЖИВОТНОВОДСТВО; ОХОТА; ОТЛОВ ЖИВОТНЫХ; РЫБОЛОВСТВО"
+    ],
+    "RawTitle": "СЕЛЬСКОЕ ХОЗЯЙСТВО; ЛЕСНОЕ ХОЗЯЙСТВО; ЖИВОТНОВОДСТВО; ОХОТА; ОТЛОВ ЖИВОТНЫХ; РЫБОЛОВСТВО",
+    "References": [],
+    "DotCount": 0,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01",
+    "MainGroup": "A01",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 4,
+    "Kind": "u",
+    "Type": "Subclass",
+    "Symbol": "A01B",
+    "ParentSymbol": "A01",
+    "FullTitle": "ОБРАБОТКА ПОЧВЫ В СЕЛЬСКОМ ИЛИ ЛЕСНОМ ХОЗЯЙСТВЕ; ДЕТАЛИ, УЗЛЫ ИЛИ ПРИСПОСОБЛЕНИЯ СЕЛЬСКОХОЗЯЙСТВЕННЫХ МАШИН ИЛИ ОРУДИЙ ВООБЩЕ",
+    "TitleParts": [
+      "ОБРАБОТКА ПОЧВЫ В СЕЛЬСКОМ ИЛИ ЛЕСНОМ ХОЗЯЙСТВЕ; ДЕТАЛИ, УЗЛЫ ИЛИ ПРИСПОСОБЛЕНИЯ СЕЛЬСКОХОЗЯЙСТВЕННЫХ МАШИН ИЛИ ОРУДИЙ ВООБЩЕ"
+    ],
+    "RawTitle": "ОБРАБОТКА ПОЧВЫ В СЕЛЬСКОМ ИЛИ ЛЕСНОМ ХОЗЯЙСТВЕ; ДЕТАЛИ, УЗЛЫ ИЛИ ПРИСПОСОБЛЕНИЯ СЕЛЬСКОХОЗЯЙСТВЕННЫХ МАШИН ИЛИ ОРУДИЙ ВООБЩЕ",
+    "References": [
+      {
+        "text": "making or covering furrows or holes for sowing, planting or manuring",
+        "symbols": [
+          "A01C 5/00"
+        ]
+      },
+      {
+        "text": "mowers convertible to soil working apparatus or capable of soil working",
+        "symbols": [
+          "A01D 42/04"
+        ]
+      },
+      {
+        "text": "mowers combined with soil working implements",
+        "symbols": [
+          "A01D 43/12"
+        ]
+      },
+      {
+        "text": "soil working for engineering purposes",
+        "symbols": [
+          "E01",
+          "E02",
+          "E21"
+        ]
+      }
+    ],
+    "DotCount": 0,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "m",
+    "Type": "MainGroup",
+    "Symbol": "A01B 1/00",
+    "ParentSymbol": "A01B",
+    "FullTitle": "Ручные орудия",
+    "TitleParts": [
+      "Ручные орудия"
+    ],
+    "RawTitle": "Ручные орудия",
+    "References": [
+      {
+        "text": "edge trimmers for lawns",
+        "symbols": [
+          "A01G 3/06"
+        ]
+      }
+    ],
+    "DotCount": 0,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/02",
+    "ParentSymbol": "A01B 1/00",
+    "FullTitle": "Ручные орудия → Лопаты; Совковые лопаты",
+    "TitleParts": [
+      "Ручные орудия",
+      "Лопаты; Совковые лопаты"
+    ],
+    "RawTitle": "Лопаты; Совковые лопаты",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/04",
+    "ParentSymbol": "A01B 1/02",
+    "FullTitle": "Ручные орудия → Лопаты; Совковые лопаты → с зубьями",
+    "TitleParts": [
+      "Ручные орудия",
+      "Лопаты; Совковые лопаты",
+      "с зубьями"
+    ],
+    "RawTitle": "с зубьями",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/06",
+    "ParentSymbol": "A01B 1/00",
+    "FullTitle": "Ручные орудия → Мотыги; Ручные культиваторы",
+    "TitleParts": [
+      "Ручные орудия",
+      "Мотыги; Ручные культиваторы"
+    ],
+    "RawTitle": "Мотыги; Ручные культиваторы",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/08",
+    "ParentSymbol": "A01B 1/06",
+    "FullTitle": "Ручные орудия → Мотыги; Ручные культиваторы → с одним лезвием",
+    "TitleParts": [
+      "Ручные орудия",
+      "Мотыги; Ручные культиваторы",
+      "с одним лезвием"
+    ],
+    "RawTitle": "с одним лезвием",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/10",
+    "ParentSymbol": "A01B 1/06",
+    "FullTitle": "Ручные орудия → Мотыги; Ручные культиваторы → с двумя или более лезвиями",
+    "TitleParts": [
+      "Ручные орудия",
+      "Мотыги; Ручные культиваторы",
+      "с двумя или более лезвиями"
+    ],
+    "RawTitle": "с двумя или более лезвиями",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/12",
+    "ParentSymbol": "A01B 1/06",
+    "FullTitle": "Ручные орудия → Мотыги; Ручные культиваторы → с лезвиями, снабженными зубьями",
+    "TitleParts": [
+      "Ручные орудия",
+      "Мотыги; Ручные культиваторы",
+      "с лезвиями, снабженными зубьями"
+    ],
+    "RawTitle": "с лезвиями, снабженными зубьями",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/14",
+    "ParentSymbol": "A01B 1/06",
+    "FullTitle": "Ручные орудия → Мотыги; Ручные культиваторы → только с зубьями",
+    "TitleParts": [
+      "Ручные орудия",
+      "Мотыги; Ручные культиваторы",
+      "только с зубьями"
+    ],
+    "RawTitle": "только с зубьями",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/16",
+    "ParentSymbol": "A01B 1/00",
+    "FullTitle": "Ручные орудия → Инструменты для выпалывания сорняков",
+    "TitleParts": [
+      "Ручные орудия",
+      "Инструменты для выпалывания сорняков"
+    ],
+    "RawTitle": "Инструменты для выпалывания сорняков",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/18",
+    "ParentSymbol": "A01B 1/16",
+    "FullTitle": "Ручные орудия → Инструменты для выпалывания сорняков → Инструменты щипцового типа",
+    "TitleParts": [
+      "Ручные орудия",
+      "Инструменты для выпалывания сорняков",
+      "Инструменты щипцового типа"
+    ],
+    "RawTitle": "Инструменты щипцового типа",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/20",
+    "ParentSymbol": "A01B 1/00",
+    "FullTitle": "Ручные орудия → Комбинации различных видов ручных орудий",
+    "TitleParts": [
+      "Ручные орудия",
+      "Комбинации различных видов ручных орудий"
+    ],
+    "RawTitle": "Комбинации различных видов ручных орудий",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/22",
+    "ParentSymbol": "A01B 1/00",
+    "FullTitle": "Ручные орудия → Крепление лезвий или аналогичных элементов к рукояткам; Сменные или регулируемые лезвия",
+    "TitleParts": [
+      "Ручные орудия",
+      "Крепление лезвий или аналогичных элементов к рукояткам; Сменные или регулируемые лезвия"
+    ],
+    "RawTitle": "Крепление лезвий или аналогичных элементов к рукояткам; Сменные или регулируемые лезвия",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 1/24",
+    "ParentSymbol": "A01B 1/00",
+    "FullTitle": "Ручные орудия → для обработки лугов или газонов",
+    "TitleParts": [
+      "Ручные орудия",
+      "для обработки лугов или газонов"
+    ],
+    "RawTitle": "для обработки лугов или газонов",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 1/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "m",
+    "Type": "MainGroup",
+    "Symbol": "A01B 3/00",
+    "ParentSymbol": "A01B",
+    "FullTitle": "Плуги с неподвижными лемехами",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами"
+    ],
+    "RawTitle": "Плуги с неподвижными лемехами",
+    "References": [],
+    "DotCount": 0,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/02",
+    "ParentSymbol": "A01B 3/00",
+    "FullTitle": "Плуги с неподвижными лемехами → Плуги с ручным приводом",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Плуги с ручным приводом"
+    ],
+    "RawTitle": "Плуги с ручным приводом",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/04",
+    "ParentSymbol": "A01B 3/00",
+    "FullTitle": "Плуги с неподвижными лемехами → Плуги с конной тягой",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Конные плуги"
+    ],
+    "RawTitle": "Конные плуги",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/06",
+    "ParentSymbol": "A01B 3/04",
+    "FullTitle": "Плуги с неподвижными лемехами → Конные плуги → без возможности переключения, т.е. неспособные образовывать смежную борозду на обратном пути",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Конные плуги",
+      "без возможности переключения, т.е. неспособные образовывать смежную борозду на обратном пути"
+    ],
+    "RawTitle": "без возможности переключения, т.е. неспособные образовывать смежную борозду на обратном пути",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/08",
+    "ParentSymbol": "A01B 3/06",
+    "FullTitle": "Плуги с неподвижными лемехами → Конные плуги → без возможности переключения, т.е. неспособные образовывать смежную борозду на обратном пути → Поворотные плуги",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Конные плуги",
+      "без возможности переключения, т.е. неспособные образовывать смежную борозду на обратном пути",
+      "Плуги-одноручки"
+    ],
+    "RawTitle": "Плуги-одноручки",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/10",
+    "ParentSymbol": "A01B 3/06",
+    "FullTitle": "Плуги с неподвижными лемехами → Конные плуги → без возможности переключения, т.е. неспособные образовывать смежную борозду на обратном пути → Плуги с ферменной грядкой; Одноколесные плуги",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Конные плуги",
+      "без возможности переключения, т.е. неспособные образовывать смежную борозду на обратном пути",
+      "Плуги с решетчатым грядилем; Одноколесные плуги"
+    ],
+    "RawTitle": "Плуги с решетчатым грядилем; Одноколесные плуги",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/12",
+    "ParentSymbol": "A01B 3/06",
+    "FullTitle": "Плуги с неподвижными лемехами → Конные плуги → без возможности переключения, т.е. неспособные образовывать смежную борозду на обратном пути → Двухколесные плуги с грядкой",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Конные плуги",
+      "без возможности переключения, т.е. неспособные образовывать смежную борозду на обратном пути",
+      "Двухколесные плуги"
+    ],
+    "RawTitle": "Двухколесные плуги",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/14",
+    "ParentSymbol": "A01B 3/06",
+    "FullTitle": "Плуги с неподвижными лемехами → Конные плуги → без возможности переключения, т.е. неспособные образовывать смежную борозду на обратном пути → Рамочные плуги",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Конные плуги",
+      "без возможности переключения, т.е. неспособные образовывать смежную борозду на обратном пути",
+      "Рамочные плуги"
+    ],
+    "RawTitle": "Рамочные плуги",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/16",
+    "ParentSymbol": "A01B 3/04",
+    "FullTitle": "Плуги с неподвижными лемехами → Конные плуги → Оборотные плуги, т.е. способные образовывать смежную борозду на обратном пути",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Конные плуги",
+      "Оборотные плуги, т.е. способные образовывать смежную борозду на обратном пути"
+    ],
+    "RawTitle": "Оборотные плуги, т.е. способные образовывать смежную борозду на обратном пути",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/18",
+    "ParentSymbol": "A01B 3/16",
+    "FullTitle": "Плуги с неподвижными лемехами → Конные плуги → Оборотные плуги, т.е. способные образовывать смежную борозду на обратном пути → Плуги с поворотным отвалом",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Конные плуги",
+      "Оборотные плуги, т.е. способные образовывать смежную борозду на обратном пути",
+      "Плуги с поворотным отвалом"
+    ],
+    "RawTitle": "Плуги с поворотным отвалом",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/20",
+    "ParentSymbol": "A01B 3/16",
+    "FullTitle": "Плуги с неподвижными лемехами → Конные плуги → Оборотные плуги, т.е. способные образовывать смежную борозду на обратном пути → Балансирные плуги",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Конные плуги",
+      "Оборотные плуги, т.е. способные образовывать смежную борозду на обратном пути",
+      "Балансирные плуги"
+    ],
+    "RawTitle": "Балансирные плуги",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/22",
+    "ParentSymbol": "A01B 3/16",
+    "FullTitle": "Плуги с неподвижными лемехами → Конные плуги → Оборотные плуги, т.е. способные образовывать смежную борозду на обратном пути → с параллельными корпусами, используемыми попеременно",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Конные плуги",
+      "Оборотные плуги, т.е. способные образовывать смежную борозду на обратном пути",
+      "с параллельными корпусами, используемыми попеременно"
+    ],
+    "RawTitle": "с параллельными корпусами, используемыми попеременно",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/24",
+    "ParentSymbol": "A01B 3/00",
+    "FullTitle": "Плуги с неподвижными лемехами → Тракторные прицепные плуги",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Тракторные прицепные плуги"
+    ],
+    "RawTitle": "Тракторные прицепные плуги",
+    "References": [
+      {
+        "text": "takes precedence",
+        "symbols": [
+          "A01B 3/04"
+        ]
+      }
+    ],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/26",
+    "ParentSymbol": "A01B 3/24",
+    "FullTitle": "Плуги с неподвижными лемехами → Тракторные прицепные плуги → без возможности переключения",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Тракторные прицепные плуги",
+      "без возможности переключения"
+    ],
+    "RawTitle": "без возможности переключения",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/28",
+    "ParentSymbol": "A01B 3/24",
+    "FullTitle": "Плуги с неподвижными лемехами → Тракторные прицепные плуги → Оборотные плуги",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Тракторные прицепные плуги",
+      "Оборотные плуги"
+    ],
+    "RawTitle": "Оборотные плуги",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/30",
+    "ParentSymbol": "A01B 3/28",
+    "FullTitle": "Плуги с неподвижными лемехами → Тракторные прицепные плуги → Оборотные плуги → Плуги с поворотным отвалом",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Тракторные прицепные плуги",
+      "Оборотные плуги",
+      "Плуги с поворотным отвалом"
+    ],
+    "RawTitle": "Плуги с поворотным отвалом",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/32",
+    "ParentSymbol": "A01B 3/28",
+    "FullTitle": "Плуги с неподвижными лемехами → Тракторные прицепные плуги → Оборотные плуги → Балансирные плуги",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Тракторные прицепные плуги",
+      "Оборотные плуги",
+      "Балансирные плуги"
+    ],
+    "RawTitle": "Балансирные плуги",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/34",
+    "ParentSymbol": "A01B 3/28",
+    "FullTitle": "Плуги с неподвижными лемехами → Тракторные прицепные плуги → Оборотные плуги → с параллельными корпусами, используемыми попеременно",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Тракторные прицепные плуги",
+      "Оборотные плуги",
+      "с параллельными корпусами, используемыми попеременно"
+    ],
+    "RawTitle": "с параллельными корпусами, используемыми попеременно",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "1",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/36",
+    "ParentSymbol": "A01B 3/00",
+    "FullTitle": "Плуги с неподвижными лемехами → Навесные тракторные плуги",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Навесные плуги"
+    ],
+    "RawTitle": "Навесные плуги",
+    "References": [],
+    "DotCount": 1,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/38",
+    "ParentSymbol": "A01B 3/36",
+    "FullTitle": "Плуги с неподвижными лемехами → Навесные тракторные плуги → без возможности переключения",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Навесные плуги",
+      "без возможности переключения"
+    ],
+    "RawTitle": "без возможности переключения",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "2",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/40",
+    "ParentSymbol": "A01B 3/36",
+    "FullTitle": "Плуги с неподвижными лемехами → Навесные тракторные плуги → Оборотные плуги",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Навесные плуги",
+      "Оборотные плуги"
+    ],
+    "RawTitle": "Оборотные плуги",
+    "References": [],
+    "DotCount": 2,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/42",
+    "ParentSymbol": "A01B 3/40",
+    "FullTitle": "Плуги с неподвижными лемехами → Навесные тракторные плуги → Оборотные плуги → Плуги с поворотным отвалом",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Навесные плуги",
+      "Оборотные плуги",
+      "Плуги с поворотным отвалом"
+    ],
+    "RawTitle": "Плуги с поворотным отвалом",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "4",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/4210",
+    "ParentSymbol": "A01B 3/42",
+    "FullTitle": "Плуги с неподвижными лемехами → Навесные тракторные плуги → Оборотные плуги → Плуги с поворотным отвалом → с цельной рамой навески",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Навесные плуги",
+      "Оборотные плуги",
+      "Плуги с поворотным отвалом",
+      "с цельной рамой прицепного устройства"
+    ],
+    "RawTitle": "с цельной рамой прицепного устройства",
+    "References": [],
+    "DotCount": 4,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "4",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/4260",
+    "ParentSymbol": "A01B 3/42",
+    "FullTitle": "Плуги с неподвижными лемехами → Плуги, монтируемые на тракторах → Оборотные плуги → Балансирные плуги → с рамой передка, состоящей из двух или более частей",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Навесные плуги",
+      "Оборотные плуги",
+      "Плуги с поворотным отвалом",
+      "с рамой передка, состоящей из двух или более частей"
+    ],
+    "RawTitle": "с рамой передка, состоящей из двух или более частей",
+    "References": [],
+    "DotCount": 4,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  },
+  {
+    "Level": 5,
+    "Kind": "3",
+    "Type": "Subgroup",
+    "Symbol": "A01B 3/44",
+    "ParentSymbol": "A01B 3/40",
+    "FullTitle": "Плуги с неподвижными лемехами → Плуги, монтируемые на тракторах → Оборотные плуги → с параллельными плужными корпусами, используемыми попеременно",
+    "TitleParts": [
+      "Плуги с неподвижными лемехами",
+      "Навесные плуги",
+      "Оборотные плуги",
+      "с параллельными корпусами, используемыми попеременно"
+    ],
+    "RawTitle": "с параллельными корпусами, используемыми попеременно",
+    "References": [],
+    "DotCount": 3,
+    "Section": "A",
+    "Class": "A01",
+    "Subclass": "A01B",
+    "MainGroup": "A01B 3/00",
+    "IsResidual": false,
+    "IPC_Version": "2026.01",
+    "Source": "scheme"
+  }
+]

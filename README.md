@@ -49,7 +49,8 @@ src/
 │   ├── input/               # Исходный XML
 │   ├── output/
 │   │   ├── json/            # ipc_scheme_en.json, ipc_scheme_ru.json
-│   │   └── xlsx/            # IPC_Flat_20260101.xlsx
+│   │   ├── xlsx/            # IPC_Flat_20260101.xlsx
+│   │   └── sqlite/          # IPC_Flat_20260101.sqlite3
 │   └── cache/               # Кеш переводов и прогресс
 ├── .env                     # API_KEY
 └── settings.py              # Настройки
@@ -79,8 +80,9 @@ src/
 
 ```bash
 python src/parsers/xml_to_json_en.py      # Только парсинг XML
-python src/parsers/translate_json.py      # Только перевод (продолжит с места)
+python src/parsers/translate_json.py      # Только перевод на русский язык
 python src/parsers/json_to_xlsx.py        # Только создание Excel
+python src/parsers/json_to_sqlite.py      # Только создание SQLite
 ```
 
 ---

@@ -1,8 +1,10 @@
+# build_all.py — Полный цикл: парсинг → перевод → Excel → SQLite
 """
 Запускает последовательно:
 1. xml_to_json_en.py — создание ipc_scheme_en.json
-2. translate_json.py — перевод → ipc_scheme_ru.json
-3. json_to_xlsx.py  — создание IPC_Flat_20260101.xlsx с вкладками EN и RU
+2. translate_json.py — перевод → ipc_scheme_ru.json (с докачкой)
+3. json_to_xlsx.py  — создание IPC_Flat_20260101.xlsx
+4. json_to_sqlite.py — создание ipc_202601.sqlite3
 """
 
 import subprocess
@@ -12,7 +14,7 @@ from datetime import datetime
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from settings import JSON_EN, JSON_RU, XLSX_DIR, IPC_VERSION
+from settings import JSON_EN, JSON_RU, XLSX_DIR, SQLITE_DIR, IPC_VERSION
 
 PARSERS_DIR = Path(__file__).parent
 
@@ -25,11 +27,7 @@ def run_script(script_name: str, description: str) -> bool:
     print(f"  ▶ Скрипт: {script_name}")
     print(f"{'='*70}")
     
-    result = subprocess.run(
-        [sys.executable, str(script_path)],
-        capture_output=False,
-        text=True
-    )
+    result = subprocess.run([sys.executable, str(script_path)])
     
     if result.returncode == 0:
         print(f"  ✅ {description} — Готово")
@@ -49,42 +47,30 @@ def main():
     print(f"  Запуск:     {start.strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 70)
     
-    # Этап 1: Парсинг XML → JSON (EN)
-    if not run_script("xml_to_json_en.py", "Парсинг XML → JSON (EN)"):
-        print("\n❌ Парсинг не удался. Выход.")
-        return
+    steps = [
+        ("xml_to_json_en.py", "Парсинг XML → JSON (EN)"),
+        ("translate_json.py", "Перевод JSON (EN → RU)"),
+        ("json_to_xlsx.py", "Создание Excel (JSON → XLSX)"),
+        ("json_to_sqlite.py", "Создание SQLite (JSON → DB)"),
+    ]
     
-    # Проверяем, что JSON_EN создан
-    if not JSON_EN.exists():
-        print(f"\n❌ Файл не создан: {JSON_EN}")
-        return
-    
-    # Этап 2: Перевод JSON (EN → RU)
-    if not run_script("translate_json.py", "Перевод JSON (EN → RU)"):
-        print("\n⚠️  Перевод прерван. Запустите translate_json.py ещё раз.")
-        print(f"   Прогресс сохранён, можно продолжить.")
-        return
-    
-    # Проверяем, что JSON_RU создан
-    if not JSON_RU.exists():
-        print(f"\n❌ Файл не создан: {JSON_RU}")
-        return
-    
-    # Этап 3: JSON → XLSX
-    if not run_script("json_to_xlsx.py", "Создание Excel (JSON → XLSX)"):
-        print("\n❌ Создание Excel не удалось.")
-        return
+    for script, desc in steps:
+        if not run_script(script, desc):
+            print(f"\n❌ Процесс остановлен на шаге: {desc}")
+            print(f"   Исправьте ошибку и запустите build_all.py снова.")
+            return
     
     # Итоги
     elapsed = datetime.now() - start
-    xlsx_path = XLSX_DIR / "IPC_Flat_20260101.xlsx"
+    version_str = IPC_VERSION.replace('.', '')
     
     print()
     print("=" * 70)
     print("  ✅ ПОЛНЫЙ ЦИКЛ ЗАВЕРШЁН!")
     print(f"  EN JSON:  {JSON_EN}")
     print(f"  RU JSON:  {JSON_RU}")
-    print(f"  Excel:    {xlsx_path}")
+    print(f"  Excel:    {XLSX_DIR / 'IPC_Flat_20260101.xlsx'}")
+    print(f"  SQLite:   {SQLITE_DIR / f'ipc_{version_str}.sqlite3'}")
     print(f"  Время:    {str(elapsed).split('.')[0]}")
     print("=" * 70)
 
